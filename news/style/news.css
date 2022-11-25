@@ -1,0 +1,66 @@
+@media (min-width:480px)  {     
+    .logosize{
+height: 100px;
+}
+
+.catsize{
+max-width: 100em;
+}
+
+.carousel-inner{
+max-height: 500px;
+}
+
+.title
+{
+height: 90px;
+color: aliceblue;
+font-size: 60px;
+}
+
+.text
+{
+height: 40px;
+color: rgb(204, 204, 204);
+font-size: 45px;
+}
+}
+@media (min-width:1281px) { 
+/* hi-res laptops and desktops */
+.logosize{
+height: 50px;
+}
+
+
+.catsize{
+max-width: 30em;
+}
+
+.mk_image{    
+margin: auto;
+width: 60%;
+height: 500px;
+}
+
+.carousel-inner{
+max-height: 500px;
+}
+
+.Content{
+margin: auto;
+width: 85%;
+}
+
+.title
+{
+height: 90px;
+color: aliceblue;
+}
+
+.text
+{
+height: 25px;
+color: rgb(204, 204, 204);
+}
+
+}
