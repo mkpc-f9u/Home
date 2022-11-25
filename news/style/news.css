@@ -1,3 +1,9 @@
+.time{
+    color: rgb(110, 110, 110);
+}
+
+
+/* Phone Style */
 @media (min-width:480px)  {     
     .logosize{
 height: 100px;
@@ -20,11 +26,13 @@ font-size: 60px;
 
 .text
 {
-height: 40px;
 color: rgb(204, 204, 204);
 font-size: 45px;
 }
 }
+
+
+/* PC Style*/
 @media (min-width:1281px) { 
 /* hi-res laptops and desktops */
 .logosize{
@@ -59,7 +67,7 @@ color: aliceblue;
 
 .text
 {
-height: 25px;
+    font-size: 25px;
 color: rgb(204, 204, 204);
 }
 
